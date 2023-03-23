@@ -1,11 +1,14 @@
-Teste de automação web com Ruby
+## Teste de automação web com Capybara, Ruby e cucumber ##
 
+Readme.md em construção 🚧
+
+```
 Ruby
 https://rubyinstaller.org/downloads/
 
 RubyGems
 https://rubygems.org/
-
+```
 
 1. Criar uma pasta local para o projeto
 
